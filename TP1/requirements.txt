@@ -1,0 +1,10 @@
+La siguiente es una lista de las dependecias para correr correctamente el trabajo practico:
+
+- python
+- numpy 
+- pandas
+- sklearn
+- matplotlib
+- seaborn
+- collections 
+- requests
