@@ -11,7 +11,7 @@ Repositorio para la Materia Organización de Datos [7506]
 | Alumno                     | Padrón   |
 | -------------------------- | -------- |
 | **BIANCARDI**, Julián      | _103945_ |
-| **Hetrea**, Joaquin | _103944_ |
+| **HETREA**, Joaquin | _103944_ |
 
 # Trabajos Prácticos
 
