@@ -15,6 +15,6 @@ Repositorio para la Materia Organización de Datos [7506]
 
 # Trabajos Prácticos
 
-* [TP1](https://github.com/JulianBiancardi/Organizacion-de-Dato-75.06/tree/main/TP1)
+* [TP1](https://github.com/JulianBiancardi/Organizacion-de-Datos-75.06/tree/main/TP1)
 
 
