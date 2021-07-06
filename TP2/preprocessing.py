@@ -83,7 +83,7 @@ missings_preprocessing = {
 
 def feature_engineering(X,missings='category'):
     X_aux = X.copy()
-    missings_preprocessing[missings](df)
+    missings_preprocessing[missings](X_aux)
     X_aux.drop(columns=['educacion_alcanzada'],inplace=True)
     return X_aux
 
