@@ -1,0 +1,10 @@
+La siguiente es una lista de las dependecias externas necesarias para correr correctamente el trabajo practico:
+
+- numpy 
+- pandas
+- sklearn
+- matplotlib
+- collections 
+- requests
+- graphviz
+- IPython
