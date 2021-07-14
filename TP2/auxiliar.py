@@ -54,7 +54,6 @@ def create_prediction(ids, y_pred,file_name=''):
 #-----------------------------------PLOTTING METRICS FUNCTIONS----------------------------------#
 
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 from sklearn.metrics import confusion_matrix, plot_confusion_matrix
 from sklearn.metrics import roc_curve,auc,roc_auc_score
